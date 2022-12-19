@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "1cfae44de066379e",
+    "type": "split",
+    "children": [
+      {
+        "id": "734a27291d910a1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e516fbdba5e3213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "experi_berenice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14b9fdc87ddc3581",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a3a3b684a4684d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9695a66c4cf59a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfc2ad01826308ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f2170483b6b21a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e09c08235c37437e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcdc99516a7f9ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f02382f4a1826765",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "experi_berenice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0116aa16db514ecf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "experi_berenice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eff9803d59c87fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "561af2079da12b83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "experi_berenice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fb9695a66c4cf59a",
+  "lastOpenFiles": [
+    "experi_berenice.md",
+    "2022-12-19.md",
+    "experi_joaquin.md",
+    "Reunión.md",
+    "experi_lucas.md",
+    "Esta es una prueba.md",
+    "Untitled 1.md"
+  ]
+}
