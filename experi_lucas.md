@@ -1,3 +1,5 @@
+# experi lucas
+
 N = 80
 
 Experimento usando VR de out of body como el realizado por lopez.
