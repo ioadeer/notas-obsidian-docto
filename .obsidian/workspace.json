@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "734a27291d910a1b",
+        "id": "ffdb536790359c67",
         "type": "tabs",
         "children": [
           {
-            "id": "9e516fbdba5e3213",
+            "id": "a8700453daed36eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experi_joaquin.md",
+                "file": "experi_berenice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experi_joaquin.md",
+                "file": "experi_berenice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experi_joaquin.md",
+                "file": "experi_berenice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experi_joaquin.md"
+                "file": "experi_berenice.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,13 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e516fbdba5e3213",
+  "active": "a8700453daed36eb",
   "lastOpenFiles": [
-    "experi_lucas.md",
-    "experi_berenice.md",
-    "2022-12-19.md",
     "experi_joaquin.md",
+    "experi_berenice.md",
+    "2023-02-01 primera reunion.md",
     "Reunión.md",
+    "experi_lucas.md",
+    "2022-12-19.md",
     "Esta es una prueba.md",
     "Untitled 1.md"
   ]

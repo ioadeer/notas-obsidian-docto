@@ -15,3 +15,59 @@ Esta es la disposicion de los parlantes, con un 35% de aumento escala logaritmic
 |    5     |   6           |    6.65   |
 |    6     |   9           |    9      |
 
+Poder hacerlo el primero de febreo
+
+fs fake speaker
+rs real speaker
+
+|| wall
+|| wall
+|| wall
+|| wall
+
+Parado
+  0  
+ -|- 
+  |  
+ / l 
+
+Sentado
+  0   
+ -|-  
+  --- 
+  / l 
+
+1ero curva distancia con casco puesto apagado y despues cualquiera de las tres condiciones:
+- sala chica
+- sala grande
+- sala grande con pocos parlantes
+
+sala chica
+
+  0                                  ||
+ -|-                                 ||
+  ---                                ||
+  / l     fs fs fs fs fs fs fs fs fs ||
+	      rs     rs    rs    rs    rs    rs   rs
+
+
+sala grande
+  0                                                  ||
+ -|-                                                 ||
+  ---                                                ||
+  / l       fs fs fs fs fs fs fs fs fs fs fs fs fs   ||
+	        rs     rs    rs    rs    rs    rs   rs
+
+sala granda no llena de parlantes
+  0                                              ||
+ -|-                                             ||
+  |                                              ||
+ / l      fs fs fs fs fs fs                      ||
+	      rs     rs    rs    rs    rs    rs   rs
+
+
+---------------------------
+
+### TODO
+
+script para hacer la sesion experimental
