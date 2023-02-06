@@ -26,16 +26,24 @@ rs real speaker
 || wall
 
 Parado
+
   0  
+  
  -|- 
+ 
   |  
+  
  / l 
 
 Sentado
+
   0   
+  
  -|-  
-  --- 
-  / l 
+ 
+\-\--
+
+/ l 
 
 1ero curva distancia con casco puesto apagado y despues cualquiera de las tres condiciones:
 - sala chica
@@ -44,27 +52,40 @@ Sentado
 
 sala chica
 
-  0                                  ||
- -|-                                 ||
-  ---                                ||
-  / l     fs fs fs fs fs fs fs fs fs ||
-	      rs     rs    rs    rs    rs    rs   rs
+0..................................|| 
+  
+-|-.................................|| 
+ 
+---.................................||
+  
+/ l........fs fs fs fs fs fs fs fs fs......|| <br>
 
+..........rs rs rs rs rs rs rs rs rs...... <br>
 
 sala grande
-  0                                                  ||
- -|-                                                 ||
-  ---                                                ||
-  / l       fs fs fs fs fs fs fs fs fs fs fs fs fs   ||
-	        rs     rs    rs    rs    rs    rs   rs
+
+0.........................................|| 
+  
+-|-.........................................|| 
+ 
+---.........................................||
+  
+/ l..............fs fs fs fs fs fs fs fs fs......|| <br>
+
+..........rs rs rs rs rs rs rs rs rs...... <br>
+
 
 sala granda no llena de parlantes
-  0                                              ||
- -|-                                             ||
-  |                                              ||
- / l      fs fs fs fs fs fs                      ||
-	      rs     rs    rs    rs    rs    rs   rs
 
+0.........................................|| 
+  
+-|-.........................................|| 
+ 
+---.........................................||
+  
+/ l.......fs fs fs fs fs fs....................|| <br>
+
+..........rs rs rs rs rs rs rs rs rs...... <br>
 
 ---------------------------
 
