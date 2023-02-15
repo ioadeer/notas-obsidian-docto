@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experi_joaquin.md",
+                "file": "notas-vitacora/2023-02-14 calibracion angulo parlantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experi_joaquin.md",
+                "file": "notas-vitacora/2023-02-14 calibracion angulo parlantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experi_joaquin.md",
+                "file": "notas-vitacora/2023-02-14 calibracion angulo parlantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experi_joaquin.md"
+                "file": "notas-vitacora/2023-02-14 calibracion angulo parlantes.md"
               }
             }
           }
@@ -147,13 +147,15 @@
   },
   "active": "e16945574bec6110",
   "lastOpenFiles": [
-    "experi_berenice.md",
+    "notas-vitacora/2023-02-01 primera reunion.md",
+    "notas-vitacora/photo/setup-14-2-2023.jpg.md",
+    "notas-vitacora/2023-02-14 calibracion angulo parlantes.md",
+    "notas-vitacora/photos/setup-14-02-2023.png",
+    "notas-vitacora/photos/setup-14-2-2023.jpg",
+    "06-02-2023.pdf",
     "experi_joaquin.md",
-    "2023-02-01 primera reunion.md",
+    "experi_berenice.md",
     "Reunión.md",
-    "experi_lucas.md",
-    "2022-12-19.md",
-    "Esta es una prueba.md",
-    "Untitled 1.md"
+    "experi_lucas.md"
   ]
 }
